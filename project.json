@@ -1,8 +1,9 @@
 {
-  "name": "4444",
+  "name": "44445",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.ComputerVision.Activities": "[2.1.0]",
     "UiPath.Excel.Activities": "[2.6.3]",
     "UiPath.Mail.Activities": "[1.6.0]",
     "UiPath.System.Activities": "[19.8.0]",
